@@ -35,24 +35,8 @@ Insights into factors influencing customer churn.
 Recommendations for reducing churn rates.
 
 # Conclusion:
-High Churn seen in customers :
-Who lack Online security, Tech support, Online Backup and Device protection
-Using Fiber optic service 
-Month-to-month contract 
-Are senior citizens. 
-Shorter tenure (Tenure range: 1–12-month).
-Paying elevated monthly charges. 
-Paying via Electronic check payment method.
+![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/9e3dae47-f6d6-4cba-8011-f86445598397)
 
-Low Churn evident in :
-Users with a lengthy tenure demonstrate a lower likelihood of churning.
-The churn rate is minimal among those who do not have an active internet subscription.
-
-No Impact:
-Factors like Gender, Availability of Phone Service and multiple lines have insignificant impact on churn.
-
-# Conclusion:
-![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/45718f56-12a6-4cc2-baa1-082527e3e7da)
 
 # Recommendations:
 ![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/fdbcffbe-3daf-429a-82b3-e016ea055b77)
