@@ -14,13 +14,13 @@ In this project, we analyze customer churn data to gain insights into the factor
 
 # To run the analysis, you will need the following dependencies:
 
-Python (3.x recommended)
-Jupyter Notebook (for running the analysis notebooks)
-Pandas
-NumPy
-Matplotlib and Seaborn (for data visualization)
-Scikit-Learn (for machine learning)
-[Optional] Other libraries based on the analysis requirements.
+- Python (3.x recommended)
+- Jupyter Notebook (for running the analysis notebooks)
+- Pandas
+- NumPy
+- Matplotlib and Seaborn (for data visualization)
+- Scikit-Learn (for machine learning)
+- [Optional] Other libraries based on the analysis requirements.
 
 # Analysis:
 The analysis involves the following steps:
