@@ -31,10 +31,12 @@ Interpretation: Interpreting the analysis's results and identifying key factors 
 # Results:
 The results of the analysis will include:
 Visualizations illustrating key findings from the EDA.
-![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/6a539990-1341-4d5f-adf9-3dc266a4dd60)
-
 Insights into factors influencing customer churn.
 Recommendations for reducing churn rates.
+
+![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/6a539990-1341-4d5f-adf9-3dc266a4dd60)
+
+
 
 # Conclusion:
 ![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/9e3dae47-f6d6-4cba-8011-f86445598397)
