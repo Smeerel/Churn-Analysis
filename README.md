@@ -52,6 +52,8 @@ No Impact:
 Factors like Gender, Availability of Phone Service and multiple lines have insignificant impact on churn.
 
 # Conclusion:
-[image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/45718f56-12a6-4cc2-baa1-082527e3e7da)
+![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/45718f56-12a6-4cc2-baa1-082527e3e7da)
+
+# Recommendations:
 ![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/fdbcffbe-3daf-429a-82b3-e016ea055b77)
 
