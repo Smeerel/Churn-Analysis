@@ -34,7 +34,8 @@ The results of the analysis will include:
 - Recommendations for reducing churn rates.
 
 ![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/6a539990-1341-4d5f-adf9-3dc266a4dd60)
-
+![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/15af77ee-1b04-4fb8-a363-f23fed4d3eba)
+![image](https://github.com/Smeerel/Churn-Analysis/assets/143562418/28537aef-db14-4834-8e02-d4e186ff43dc)
 
 
 # Conclusion:
